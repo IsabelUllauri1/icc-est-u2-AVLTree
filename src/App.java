@@ -8,7 +8,7 @@ public class App {
         aVLtree.insert(20);
         aVLtree.insert(15);
 
-        System.out.println(aVLtree);
+        
 
 
     }
